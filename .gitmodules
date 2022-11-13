@@ -1,6 +1,6 @@
-[submodule "hugo-theme-dimension"]
-	path = hugo-theme-dimension
-	url = https://github.com/your-identity/hugo-theme-dimension
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = https://github.com/your-identity/hugo-theme-dimension
+[submodule "themes/eternity"]
+	path = themes/eternity
+	url = https://github.com/boratanrikulu/eternity.git
