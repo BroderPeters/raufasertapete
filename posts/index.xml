@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://raufasertapete-band.de/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 13 Nov 2022 12:01:21 +0100</lastBuildDate><atom:link href="https://raufasertapete-band.de/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://raufasertapete-band.de/posts/my-first-post/</link><pubDate>Sun, 13 Nov 2022 12:01:21 +0100</pubDate><guid>https://raufasertapete-band.de/posts/my-first-post/</guid><description>Hier kommt raufasi hin.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Raufasertapete</title>
+    <link>https://raufasertapete-band.de/posts/</link>
+    <description>Recent content in Posts on Raufasertapete</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Nov 2022 12:01:21 +0100</lastBuildDate><atom:link href="https://raufasertapete-band.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://raufasertapete-band.de/posts/my-first-post/</link>
+      <pubDate>Sun, 13 Nov 2022 12:01:21 +0100</pubDate>
+      
+      <guid>https://raufasertapete-band.de/posts/my-first-post/</guid>
+      <description>Hier kommt raufasi hin.</description>
+    </item>
+    
+  </channel>
+</rss>
